@@ -1,0 +1,4 @@
+module Keka
+  EMAIL = "YOUR_KEKA_EMAIL"
+  PASSWORD = "YOUR_KEKA_PASSWORD"
+end
