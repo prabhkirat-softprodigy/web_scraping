@@ -13,4 +13,4 @@
 	
 	STEPS -
 
-	c) Now run "ruby nokogir_scraping.rb"
+	a) Now run "ruby nokogir_scraping.rb"
